@@ -1,3 +1,4 @@
+![Picsart_22-03-27_12-14-17-531](https://user-images.githubusercontent.com/102434518/160266977-fed1827c-6894-4f50-8e8f-0e237ecdbce8.jpg)
 ---
 title: Installing and configuring GitHub Desktop
 shortTitle: Installing and configuring
